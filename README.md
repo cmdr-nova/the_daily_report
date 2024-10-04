@@ -38,7 +38,7 @@ smtp_sasl_security_options = noanonymous
 smtp_tls_security_level = encrypt
 smtp_tls_CAfile = /etc/ssl/certs/ca-certificates.crt
 ```
-Your app password in the sasla file would look like this
+Your app password in the sasl file would look like this
 
 ```
 [smtp.gmail.com]:587 your_email@gmail.com:your_app_password
