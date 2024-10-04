@@ -24,7 +24,7 @@ Now, once you're inside, type in this
 
 And, of course, you can change this to your liking, and add whatever you want!
 
-Troubleshooting:
+**Troubleshooting:**
 
 In order for this to work, you'll need the Python Reddit API Wrapper, or "Praw", and a way to send email from your host machine. I use Postfix. In your Postfix configuration, make sure to setup TLS configuration, and your app password in a 'sasl_passwd' file.
 
