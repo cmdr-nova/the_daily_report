@@ -1,5 +1,8 @@
 # the_daily_report
 
+![Screenshot from 2024-10-04 14-34-25](https://github.com/user-attachments/assets/ac7761de-60f4-4abc-8818-19eb18928187)
+
+
 A python app for e-mailing yourself the top 5 trending posts in subreddits of your choice.
 
 This is a very simple Python script for sending yourself something interesting to read in the morning. If you're not sure where or how to create a Reddit app in order to get this working, please follow this link: https://www.reddit.com/prefs/apps
