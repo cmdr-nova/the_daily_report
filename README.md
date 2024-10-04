@@ -107,7 +107,7 @@ sudo systemctl restart postfix
 sudo systemctl restart saslauthd
 ```
 
-Send yourself a test e-mail to ensure all of this is working, by runmning this command
+Send yourself a test e-mail to ensure all of this is working, by runnning this command
 
 ```
 echo "Test email" | mail -s "SASL Test" your_mail@example.com
