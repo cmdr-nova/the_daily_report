@@ -73,7 +73,7 @@ inet_interfaces = all
 inet_protocols = ipv4
 ```
 
-Note: I did some troubleshooting and it seems you need to set protocols to ipv4, or it may not work.
+**Note:** I did some troubleshooting and it seems you need to set protocols to ipv4, or it may not work.
 
 After you've made changes to Postfix, make sure you run
 
